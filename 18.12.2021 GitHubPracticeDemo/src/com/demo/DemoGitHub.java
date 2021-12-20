@@ -16,7 +16,13 @@ public class DemoGitHub {
 		System.out.println("Method M3.....");
 	}
 	
+	public void akash()
+	{
+		System.out.println("Method Akash.....");
+	}
 	public static void main(String[] args) {
+		
+	
 		
 		System.out.println("Hiii");
 
