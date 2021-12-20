@@ -6,6 +6,11 @@ public class Demooo {
 	{
 		System.out.println("Method M2.....");
 	}
+	public void m3()
+	{
+		System.out.println("Method M3.....");
+	}
+
 	public static void main(String[] args) {
 		
 		System.out.println("Hiii");
